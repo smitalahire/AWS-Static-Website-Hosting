@@ -50,14 +50,26 @@ User → Amazon S3 Bucket → Static Website Hosting → Website Content
 
 The repository contains screenshots showing each step of the implementation:
 
-* step1.png
-* step2.png
-* step3.png
-* step4.png
-* step5.png
-* step6.png
-* step8.png
+### S3 Bucket Created
+![S3 Bucket](step1.png.png)
 
+### Files Uploaded
+![Files Uploaded](step2.png.png)
+
+### Static Website Hosting Enabled
+![Hosting Enabled](step3.png.png)
+
+### Bucket Policy Added
+![Bucket Policy](step4.png.png)
+
+### Website Endpoint Generated
+![Endpoint](step5.png.png)
+
+### Public Access Configuration
+![Public Access](step6.png.png)
+
+### Live Website
+![Live Website](step8.png.png)
 ## Learning Outcomes
 
 Through this project, I learned:
